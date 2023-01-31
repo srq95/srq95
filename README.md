@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi 👋, I'm Shariq Shahid🕹️
+  Hi 👋, I'm Shariq Shahid
 </h1>
 <h3 align="center">A passionate frontend developer from Pakistan with 4 years in HTML, CSS, JavaScript, jQuery and React. Proficient in React-Native for building mobile applications.</h3>
 
