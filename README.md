@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srq95" alt="srq95" /></a> </p>
 
+- 🌱 I’m currently learning **Web3 and Metaverse Development**
+
 - 💬 Ask me about **HTML, CSS, JS, React, React-Native**
 
 - 📫 How to reach me **shariqshahid905@gmail.com**
