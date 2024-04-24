@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Shariq Shahid
 </h1>
-<h3 align="center">A passionate fullstack developer from Pakistan with 4 years in HTML, CSS, JavaScript, jQuery, React and Next.js. Proficient in React-Native for building mobile applications.</h3>
+<h3 align="center">A passionate fullstack developer from Pakistan with 5+ years in HTML, CSS, JavaScript, jQuery, Node, React and Next.js. Proficient in React-Native for building mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srq95&label=Profile%20views&color=0e75b6&style=flat" alt="srq95" /> </p>
 
