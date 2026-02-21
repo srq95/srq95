@@ -1,4 +1,4 @@
-<h1 align="center">
+[<h1 align="center">
 Hi 👋 I'm Shariq Shahid
 </h1>
 
@@ -189,3 +189,4 @@ https://github.com/srq95
 - Building React & React Native apps
 - Improving system performance
 - Exploring Web3 concepts
+](https://github.com/srq95#shadowbey)
