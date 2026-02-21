@@ -151,9 +151,7 @@ React • Node.js
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srq95&show_icons=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srq95&layout=compact" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srq95&" />
 
 </p>
 
@@ -188,5 +186,3 @@ https://github.com/srq95
 - Working as Senior Full Stack Developer
 - Building React & React Native apps
 - Improving system performance
-- Exploring Web3 concepts
-](https://github.com/srq95#shadowbey)
