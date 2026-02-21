@@ -1,33 +1,191 @@
 <h1 align="center">
-  Hi 👋, I'm Shariq Shahid
+Hi 👋 I'm Shariq Shahid
 </h1>
-<h3 align="center">A passionate fullstack developer from Pakistan with 7+ years in HTML, CSS, JavaScript, jQuery, Node, React and Next.js. Proficient in React-Native for building mobile applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srq95&label=Profile%20views&color=0e75b6&style=flat" alt="srq95" /> </p>
+<h3 align="center">
+Senior Full Stack Developer | React • Next.js • React Native • Node.js
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srq95" alt="srq95" /></a> </p>
-
-- 🌱 I’m currently learning **Web3 and Metaverse Development**
-
-- 💬 Ask me about **HTML, CSS, JS, React, React-Native**
-
-- 📫 How to reach me **shariqshahid905@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@srq905" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@srq905" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shariq-shahid-front-end-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shariq-shahid-front-end-engineer" height="30" width="40" /></a>
-<a href="https://fb.com/shariq.shahid.501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shariq.shahid.501" height="30" width="40" /></a>
-<a href="https://discord.gg/srq95#1049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="srq95#1049" height="30" width="40" /></a>
+<p align="center">
+Full Stack Developer with 7+ years of experience building scalable web and mobile applications.
+Focused on clean architecture, performance, and reliable production systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+## 👨‍💻 About Me
+
+I'm a Full Stack Developer with strong experience in modern JavaScript technologies.
+
+I specialize in building fast, scalable applications using React, Next.js, React Native and Node.js.
+
+Most of my work involves building production systems, improving performance, and solving real-world problems — not just writing code.
+
+I enjoy working on products where I can take ownership and make technical decisions that improve long-term stability.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- jQuery
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- REST APIs
+
+### Mobile
+- React Native
+- Expo
+
+### Tools
+- Git / GitHub / GitLab
+- Postman
+- VS Code
+- npm / yarn
+
+### Other
+- Unity AR
+- Figma to Code
+- Performance Optimization
+- Responsive Design
+
+---
+
+## 💼 Experience
+
+### Senior Full Stack Developer  
+**Sleekhive Technologies**  
+2021 – Present
+
+- Built 100+ production web applications
+- Developed React Native mobile apps
+- Built backend APIs with Node.js
+- Improved performance and stability
+- Mentored junior developers
+- Code reviews and architecture decisions
+
+---
+
+### Frontend Developer  
+**ACE Digitals**  
+2019 – 2021
+
+- Developed React and Next.js applications
+- Built reusable UI components
+- Converted Figma designs to code
+- Performance optimization
+- Responsive UI implementation
+
+---
+
+### Frontend Developer  
+**Symblink Technologies**  
+2018 – 2018
+
+- HTML, CSS, JavaScript development
+- Responsive websites
+- UI improvements
+- Cross-browser fixes
+
+---
+
+## 📱 Projects
+
+### LongLive
+Health and wellness platform focused on mental and physical health.
+
+Tech:
+React • Next.js • Node.js
+
+---
+
+### Vision2Eye
+
+Eyewear eCommerce platform with virtual try-on experience.
+
+Tech:
+React • Next.js • Node.js
+
+---
+
+### Zaio
+
+Coding education platform.
+
+Tech:
+React • Next.js
+
+---
+
+### Shadowbey
+
+Startup product development platform.
+
+Tech:
+Next.js • Node.js • MongoDB
+
+---
+
+### Sellerspry
+
+Amazon marketing platform.
+
+Tech:
+React • Node.js
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=srq95&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srq95&layout=compact" />
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srq95&show_icons=true&locale=en&layout=compact" alt="srq95" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srq95&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="srq95" /></p>
+## 📫 Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srq95&" alt="srq95" /></p>
+Email:
+shariqshahid905@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/shariq-shahid-front-end-engineer
+
+GitHub:
+https://github.com/srq95
+
+---
+
+## ⚡ What I Focus On
+
+- Clean architecture
+- Performance
+- Reliable production code
+- Maintainable systems
+- Good UI/UX
+- Real-world problem solving
+
+---
+
+## 🎯 Currently
+
+- Working as Senior Full Stack Developer
+- Building React & React Native apps
+- Improving system performance
+- Exploring Web3 concepts
