@@ -29,39 +29,21 @@ I enjoy working on products where I can take ownership and make technical decisi
 
 ## 🚀 Tech Stack
 
+<p align="center">
+
 ### Frontend
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- jQuery
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,jquery" />
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- REST APIs
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql" />
 
 ### Mobile
-- React Native
-- Expo
+<img src="https://skillicons.dev/icons?i=react" /> React Native • Expo
 
 ### Tools
-- Git / GitHub / GitLab
-- Postman
-- VS Code
-- npm / yarn
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode" />
 
-### Other
-- Unity AR
-- Figma to Code
-- Performance Optimization
-- Responsive Design
+</p>
 
 ---
 
